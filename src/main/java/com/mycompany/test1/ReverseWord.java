@@ -7,6 +7,7 @@ import java.util.Scanner;
 /**
  * hello there
  * @author Tristan
+ added hi
  */
 public class ReverseWord {
     public static void main (String[] args) {
