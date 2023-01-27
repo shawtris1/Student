@@ -5,7 +5,7 @@
 package com.mycompany.test1;
 import java.util.Scanner;
 /**
- *
+ * hello there
  * @author Tristan
  */
 public class ReverseWord {
@@ -17,6 +17,7 @@ public class ReverseWord {
         for (int i = wordarray.length-1 ; i >= 0; i--) {
             System.out.print (wordarray[i]);
         }
+        System.out.println("hi");
       
         
         
